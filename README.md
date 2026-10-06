@@ -121,3 +121,10 @@ Follow these steps in separate terminals to run the robot:
 
 5. **Threaded Execution**:
     - Simultaneous tasks like speaking, gesturing, and blinking make for more realistic interactions.
+  
+
+## Report
+
+For additional details about the methodology, experiments and results see the included project report:
+
+`SIR_Group_30_Design_Document_Project_9 (1) (1)`
