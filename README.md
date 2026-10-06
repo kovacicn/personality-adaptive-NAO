@@ -19,6 +19,7 @@ The robot:
      - **Personality Type**: Analyst, Explorer, Diplomat, or Sentinel.
      - **Topic of Interest**.
    - This is done via **DialogFlow** for intent recognition.
+   - unzip **nao1.zip** to accesss Dialogflow agent definition
 
 2. **Personalized Conversations**:
    - Once the user data is gathered, the robot switches to **GPT-powered interactions**.
